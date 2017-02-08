@@ -39,8 +39,8 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Cayton Hornberger
-  email: "youremail@domain.com"
-
+  email: "hornbergerc@allegheny.edu"
+  github: hornbergerc.github.io
 # Select which share links to show in posts
 share-links-active:
   twitter: true
