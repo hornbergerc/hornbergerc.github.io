@@ -39,14 +39,19 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Cayton Hornberger
-  email: "hornbergerc@allegheny.edu"
-  github: hornbergerc.github.io
+  email: hornbergerc@allegheny.edu
+  github: hornbergerc
+  twitter: just_a_racer
 # Select which share links to show in posts
-share-links-active:
+footer-links-aqctive:
+  email: true
+  github: true
   twitter: true
-  facebook: true
-  google: false
-  linkedin: true
+
+share-links-active:
+  email: true
+  github: true
+  twitter: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
