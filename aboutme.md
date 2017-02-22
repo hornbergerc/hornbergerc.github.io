@@ -4,7 +4,7 @@ title: About me
 subtitle: The life of Cayton
 ---
 
-TL:DR Cayon is a student who is surrounded by software
+TL:DR Cayton is a student who is surrounded by software
 
 My name is Cayton Hornberger and I am a freshmen at Allegheny College. I grew up in Coatesville, Pa. and went to Coatesville Area Senior High School. Throughout high school, I ran cross country and track and field. I wanted to run to stay in shape, but then found out that I like running. I started out running my 10th grade year and I was slower then most of the team, but over the next three years, I improved and made it to varsity. Then, my senior year for outdoor track, I tried pole vaulting and I enjoyed that more then running. Even though I had limited time to learn how to pole vault, I was able to qualify for the league meet.
 
