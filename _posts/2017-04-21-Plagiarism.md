@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plagiarism, Student or Teacher Fault
-bigimg: /img/plagiarism.png
+bigimg: /img/cheat.jpg
 image: /img/locker.jpg
 tags: [plagiarism, technology]
 ---
