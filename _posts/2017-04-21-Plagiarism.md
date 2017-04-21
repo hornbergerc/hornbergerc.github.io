@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plagiarism, Student or Teacher Fault
+title: Plagiarism, Student's or Teacher's Fault?
 bigimg: /img/cheat.jpg
 image: /img/locker.jpg
 tags: [plagiarism, technology]
