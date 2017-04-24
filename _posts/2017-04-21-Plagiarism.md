@@ -9,7 +9,7 @@ tags: [plagiarism, technology]
 ### TL:DR Plagiarism can be committed by anyone, but usually the students gets the blame, when it could actually be the teachers.
 
 
-
+Whenever someone gets caught for plagiarism, they are the one who gets blamed. People tend not to think about the person's education or there background. A possibility could be that the student was not taught about plagiarism or the consequences. Then the blame should get placed on the teacher for not teaching the material.
 
 
 
