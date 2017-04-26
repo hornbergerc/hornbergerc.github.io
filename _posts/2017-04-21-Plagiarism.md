@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Plagiarism, Student's or Teacher's Fault?
+title: Plagiarism
+subtitle: Student's or Teacher's Fault?
 bigimg: /img/cheat.jpg
 image: /img/locker.jpg
 tags: [plagiarism, technology]
@@ -9,7 +10,7 @@ tags: [plagiarism, technology]
 ### TL:DR Plagiarism can be committed by anyone, but usually the students gets the blame, when it could actually be the teachers.
 
 
-Whenever someone gets caught for plagiarism, they are the one who gets blamed. People tend not to think about the person's education or there background. A possibility could be that the student was not taught about plagiarism or the consequences. Then the blame should get placed on the teacher for not teaching the material.
+Whenever someone gets caught for plagiarism, they are the one who gets blamed. People tend not to think about the person's education or there background. A possibility could be that the student was not taught about plagiarism or the consequences. Then the blame should get placed on the teacher for not teaching the material. Susan Blum wrote in her article, "Academic Integrity and Student Plagiarism: a Question of Education, Not Ethics", "students only have a vague sense of what is meant by the moral quality termed "academic integrity.""
 
 
 
