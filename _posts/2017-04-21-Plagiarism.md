@@ -10,7 +10,9 @@ tags: [plagiarism, technology]
 ### TL:DR Plagiarism can be committed by anyone, but usually the students gets the blame, when it could actually be the teachers.
 
 
-Whenever someone gets caught for plagiarism, they are the one who gets blamed. People tend not to think about the person's education or there background. A possibility could be that the student was not taught about plagiarism or the consequences. Then the blame should get placed on the teacher for not teaching the material. Susan Blum wrote in her article, "Academic Integrity and Student Plagiarism: a Question of Education, Not Ethics", "students only have a vague sense of what is meant by the moral quality termed "academic integrity.""
+Whenever someone gets caught for plagiarism, they are the one who gets blamed. People tend not to think about the person's education or there background. A possibility could be that the student was not taught about plagiarism or the consequences. Then the blame should get placed on the teacher for not teaching the material. Susan Blum wrote in her article, "Academic Integrity and Student Plagiarism: a Question of Education, Not Ethics", "students only have a vague sense of what is meant by the moral quality termed "academic integrity."" From that statement, she believes that students are briefly taught about plagiarism. She also brought up a point that students are focused on getting good grades and excelling.
+
+This is a problem, but there is a solution that could be implemented, which is to add teaching plagiarism to the curriculum. The addition of this would educate students and promote them to not plagiarize. With an updated and more involved curriculum, students will be able to learn how to not plagiarize and learn about the consequences of it. In the curriculum, teachers will give examples of plagiarized papers and articles, talk about what plagiarism is, mention what the consequences are, and how students can properly cite and not plagiarize. After the completion of the plagiarism section in the curriculum, students would be tested and asked about the material.
 
 
 
