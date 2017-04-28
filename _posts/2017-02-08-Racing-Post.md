@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Racing Through the Internet Auto Racing has Improved from Technology
+title: Racing Through the Internet 
+subtitle: Auto Racing has Improved from Technology
 bigimg: /img/SprintCar.jpg
 image: /img/legend.jpg
 tags: [race cars, technology]
