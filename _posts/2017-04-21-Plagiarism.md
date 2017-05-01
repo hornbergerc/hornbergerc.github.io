@@ -7,7 +7,7 @@ image: /img/locker.jpg
 tags: [plagiarism, technology]
 ---
 
-### TL:DR Plagiarism can be committed by anyone, but usually the students gets the blame, when it could actually be the teachers.
+### TL;DR Plagiarism can be committed by anyone, but usually the students gets the blame, when it could actually be the teachers.
 
 
 In the discussion of plagiarism, one controversial topic is "who should be blamed for plagiarism &mdash; the student or the teacher?” Whenever someone gets caught for plagiarism, they are the one who gets blamed. People tend not to think about the person’s education or their background. A possibility could be that the student was not taught about plagiarism or the consequences. Then the blame should get placed on the teacher for not teaching the material. Susan Blum wrote in her article, “Academic Integrity and Student Plagiarism: a Question of Education, Not Ethics,” “students only have a vague sense of what is meant by the moral quality termed “academic integrity.”” From that statement, she believes that students are briefly taught about plagiarism. She also brought up a point that students are focused on getting good grades and excelling, they have grown up in a society that is all about doing well in school and getting a degree. Without a degree, students believe that they can’t make as much money and won’t be as successful. This adds more stress to students about doing well in school.

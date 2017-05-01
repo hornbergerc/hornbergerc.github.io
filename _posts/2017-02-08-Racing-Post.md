@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Racing Through the Internet 
+title: Racing Through the Internet
 subtitle: Auto Racing has Improved from Technology
 bigimg: /img/SprintCar.jpg
 image: /img/legend.jpg
 tags: [race cars, technology]
 ---
 
-### TL:DR Auto Racing has improved through technology
+### TL;DR Auto Racing has improved through technology
 
 Over the years, racing has improved, either from the safety to the durability of parts. Early race cars of any type didn’t have roll cages or safety features. As time went on, racing organizations made roll cages standard. With the improvement, the racing became safer. The safety equipment that drivers wear also became safer with their fire retardant levels and the impact that helmets can take.
 
