@@ -6,11 +6,11 @@ image: /img/Feedback.jpg
 tags: []
 ---
 
-### TL;DR A short article about github and writing
+### TL;DR A short article about Github and Markdown and there advantages and disadvantages
 
+Using Github and Markdown to upload articles on a mobile-ready website was a challenge to use, but it isn't that bad once you use it a few times.
 
-
-
+There are some advantages and disadvantages from using Github such as the simplicity and the learning curve. 
 
 
 
