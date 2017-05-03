@@ -8,9 +8,9 @@ tags: []
 
 ### TL;DR A short article about Github and Markdown and there advantages and disadvantages
 
-Using Github and Markdown to upload articles on a mobile-ready website was a challenge to use, but it isn't that bad once you use it a few times.
+In FS102, we used Github and Markdown to upload articles on a mobile-ready website. Markdown is used to format the website by using code. To add pictures, you have to write a certain code and to add an m dash you have to use a different code. Markdown was a little hard to get used to, but it’s easy once you remember it and the little book that was handed out in the beginning of the year is super helpful.
 
-There are some advantages and disadvantages from using Github such as the simplicity and the learning curve. 
+There are some advantages and disadvantages from using Github such as the simplicity, the learning curve, and being a public site. Github is very simple upload article or make changes to your website. I did not have any computer or programing experience when I entered the class and in the first week, we were using the terminal window and programing our website. There was the learning of how to upload and make changes to the website and that took a few weeks to remember how to do that. Being a public site is good and bad because everyone sees your writing. With everyone looking at it, people can write an issue if they see one, which is good to improve your website. The other side is that if your writing has a lot of errors, then it looks like you aren’t a good writer.
 
 
 
